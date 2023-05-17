@@ -10,6 +10,6 @@ DELAY 500
 ENTER
 DELAY 1000
 REM Insert your website below :)
-STRING www.yourwebsite.com
+STRING http://www.pornhub.com/view_video.php?viewkey=ph60363e606df3a#1
 DELAY 500
 ENTER
